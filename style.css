@@ -13,3 +13,8 @@ h2{
 h3{ 
 
 }
+  .small-image {
+    width: 200px;
+    height: auto;
+  }
+</style>
