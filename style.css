@@ -1,3 +1,6 @@
-body{
-    background-color: #faf2e4;
-}
+<style>
+body {
+    background-color: rgb(0, 223, 137);
+    margin: 0 10%;
+    font-family: 'Franklin Gothic Medium';
+</style>
