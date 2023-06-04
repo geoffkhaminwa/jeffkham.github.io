@@ -17,4 +17,13 @@ h3{
     width: 200px;
     height: auto;
   }
+  .running-image {
+    position: absolute;
+    animation: running 10s linear infinite;
+  }
+
+  @keyframes running {
+    0% { left: 0; }
+    100% { left: 100%; }
+  }
 </style>
